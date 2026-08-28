@@ -1,0 +1,7 @@
+For this digital clock project, we took a lot of help from ChatGPT. We used it to understand the original code and it also helped us when we get really stuck with compiling things.
+The final code is completely made by us and we used AI for only when we had trouble with compiling the code.
+We asked the AI to give us another code for clock which has similar function but which uses normal integer calculation instead of BCD to just learn more of the programming language and to also see how simpler it is.
+We initially wanted to use Latex to create the progress log, and we learnt it by spending half the day on just studying the basics of how to use latex but atlast we had to choose google docs because we were running out of time.
+We wanted to make the progress log in parallel to the clock but it wasn't feasible as we had to do a lot and we decided to enter everything clearly at the end. We apologize for not following your method of doing things.
+All the photos and videos are embedded into the pdf itself.
+So in this reference we really don't know what else to upload.

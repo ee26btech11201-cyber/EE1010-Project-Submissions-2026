@@ -1,0 +1,8 @@
+To understand the circuit, we used ChatGPT to explain the circuit and also to give us images of how voltage across each step varies due to the components.
+
+We used it to know the components that we need for this project. We first thought the project was about 5W charger and the components it recommended are not even close to the components that we were supposed to use. We decided to use the middle ground for the components. 
+
+It was confusing until we realised that the project is only about a 5V charger. Now this 5V charger provided in the pdf gives very low current and the design that we have is already perfect and can provide more current.
+
+We also used ChatGPT to check the feasibility of the components to sustain the currents and check for any failure points and dangers.
+
